@@ -1,0 +1,40 @@
+Step-by-Step Plan:
+1. Core JavaScript Revise Karo (1-2 weeks)
+Sabse pehle JavaScript ka foundation strong karo. Ye topics revise karo:
+✅ Variables (let, const, var)
+✅ Data Types (string, number, boolean, object, array)
+✅ Loops (for, while, forEach)
+✅ Functions (arrow functions, callbacks, closures)
+✅ Arrays & Objects (methods like map, filter, reduce)
+✅ ES6+ Concepts (spread/rest, destructuring, promises)
+
+🎯 Resource:
+
+JavaScript.info (Theory + Practice)
+MDN Docs (Practice with small examples)
+2. DOM Manipulation (3-4 Days)
+JavaScript practice karne ka best tareeqa hai DOM manipulation se interactive cheezein banana.
+✅ document.querySelector(), addEventListener(), innerHTML
+✅ Form handling
+✅ LocalStorage
+
+🎯 Practice: Ek To-Do App ya Counter App banao.
+
+3. Asynchronous JavaScript (1 Week)
+Agar React ya Firebase use karna hai toh Async JS zaroori hai.
+✅ setTimeout(), setInterval()
+✅ Promises (.then, .catch)
+✅ async/await
+✅ Fetch API (Get/Post requests)
+
+🎯 Practice:
+
+Ek API se data fetch karne ka chhota project banao (e.g. Weather App, User List)
+4. Projects (2-3 Weeks)
+Agar tum JavaScript achhe se yaad rakhna chahte ho, toh projects banana zaroori hai.
+✅ Basic: Counter App, To-Do List, Calculator
+✅ Intermediate: Notes App (LocalStorage), API-based Project
+✅ Advanced: Mini E-commerce Website (Cart system with LocalStorage)
+
+🎯 Resource: Frontend Mentor Challenges
+
